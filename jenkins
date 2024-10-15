@@ -10,3 +10,4 @@ sudo systemctl start jenkins.service
 sudo systemctl daemon-reload (not nessesory)
 vm-ip:8080
 /var/lib/jenkins/secrets/initialAdminPassword
+b7c1612bb02a4d77b0ec1f1da9924525
