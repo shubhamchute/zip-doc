@@ -10,3 +10,4 @@ A brief description of what this project does and who it's for
 - Fullscreen mode
 - Cross platform
 - new things add
+- line 4
